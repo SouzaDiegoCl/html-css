@@ -3,7 +3,16 @@ body{
 }
 p.texto1/*O ponto cria uma classe*/{
     color: #ff0000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    text-align: right;
+    margin-right:100px ;
+    text-decoration-line: overline;
+    height: 30px;
+    text-shadow: 1px 3px 4px #6f00ff;
+
 }
 p.texto2/*O ponto cria uma classe*/{
     color: #3bbb21;
+    font-family:Verdana, Tahoma, sans-serif;
 }
